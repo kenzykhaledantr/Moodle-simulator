@@ -60,4 +60,5 @@ for (int e=0;e < 1;e++) { // this for loop will iterate for one time to give you
     cout<<course_cost[e]<<endl; // this print the cost of each course 
          
      }
-  }
+  }kk
+  
